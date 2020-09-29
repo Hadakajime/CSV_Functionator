@@ -47,12 +47,12 @@ Using the following command:
 
 It will automatically search for input.csv:
 
-`1,2,3
+`1,2,3  
 A+A,B+B,C+C`
 
 Based off this input, it will determine to use comma as a delimiter.
 
 Then it will calculate to output.csv
 
-`1,2,3
+`1,2,3  
 2,4,6`
